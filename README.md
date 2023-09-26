@@ -38,23 +38,15 @@ D2)
 D3)
 @article{Thuan_2023,
 	doi = {10.1186/s13104-023-06400-4},
-  
 	url = {https://doi.org/10.1186%2Fs13104-023-06400-4},
-  
 	year = 2023,
 	month = {jul},
-  
 	publisher = {Springer Science and Business Media {LLC}
   },
-  
 	volume = {16},
-  
 	number = {1},
-  
 	author = {Nguyen Duc Thuan and Hoang Si Hong},
-  
 	title = {{HUST} bearing: a practical dataset for ball bearing fault diagnosis},
-  
 	journal = {{BMC} Research Notes}
 }
 D4)
