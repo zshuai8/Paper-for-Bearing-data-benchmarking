@@ -17,10 +17,6 @@ M1) Damage Propagation Modeling for Aircraft Engine Prognostics
 M2) Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings
 
 
-
-
-
-
 ## BibTex
 D1)
 @inproceedings{Lessmeier2016ConditionMO,
