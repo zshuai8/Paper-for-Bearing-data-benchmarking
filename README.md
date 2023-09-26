@@ -2,14 +2,18 @@
 
 ## Dataset paper
 D1) CONDITION MONITORING OF BEARING DAMAGE IN ELECTROMECHANICAL DRIVE SYSTEMS BY USING MOTOR CURRENT SIGNALS OF ELECTRIC MOTORS: A BENCHMARK DATA SET FOR DATA-DRIVEN CLASSIFICATION
+
 D2) Vibration, Acoustic, Temperature, and Motor Current Dataset of Rotating Machine Under Varying Load Conditions for Fault Diagnosis
+
 D3) HUST bearing: a practical dataset for ball bearing fault diagnosis
+
 D4) A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings
 ## Survery paper
 S1)
 
 ## Methodolgy Paper
 M1) Damage Propagation Modeling for Aircraft Engine Prognostics
+
 M2) Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings
 
 
