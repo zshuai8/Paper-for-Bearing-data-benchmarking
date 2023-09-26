@@ -21,7 +21,7 @@ M2) Data synthesis using dual discriminator conditional generative adversarial n
 
 
 
-BibTex
+## BibTex
 D1)
 @inproceedings{Lessmeier2016ConditionMO,
   title={Condition Monitoring of Bearing Damage in Electromechanical Drive Systems by Using Motor Current Signals of Electric Motors: A Benchmark Data Set for Data-Driven Classification},
