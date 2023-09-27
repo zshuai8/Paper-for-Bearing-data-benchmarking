@@ -9,14 +9,14 @@ D3) HUST bearing: a practical dataset for ball bearing fault diagnosis
 
 D4) A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings
 ## Survery paper
-S1) [Deep learning algorithms for bearing fault diagnostics—A comprehensive review](https://ieeexplore.ieee.org/abstract/document/8988271/)
-S2) [A survey on deep learning based bearing fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0925231218312657)
-S3) [A systematic review of fuzzy formalisms for bearing fault diagnosis](https://ieeexplore.ieee.org/abstract/document/8510832/)
-S4) [Stator current-based bearing fault detection techniques: A general review](https://ieeexplore.ieee.org/abstract/document/4393063/)
-S5) [Bearing fault detection and diagnosis using case western reserve university dataset with deep learning approaches: A review](https://ieeexplore.ieee.org/abstract/document/9078761/)
-S6) [Bearing fault diagnosis using signal processing and machine learning techniques: A review](https://iopscience.iop.org/article/10.1088/1757-899X/1259/1/012034/meta)
-S7) [Deep transfer learning for bearing fault diagnosis: A systematic review since 2016](https://ieeexplore.ieee.org/abstract/document/10042467/)
-
+S1) [Deep learning algorithms for bearing fault diagnostics—A comprehensive review](https://ieeexplore.ieee.org/abstract/document/8988271/)  
+S2) [A survey on deep learning based bearing fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0925231218312657)  
+S3) [A systematic review of fuzzy formalisms for bearing fault diagnosis](https://ieeexplore.ieee.org/abstract/document/8510832/)  
+S4) [Stator current-based bearing fault detection techniques: A general review](https://ieeexplore.ieee.org/abstract/document/4393063/)  
+S5) [Bearing fault detection and diagnosis using case western reserve university dataset with deep learning approaches: A review](https://ieeexplore.ieee.org/abstract/document/9078761/)  
+S6) [Bearing fault diagnosis using signal processing and machine learning techniques: A review](https://iopscience.iop.org/article/10.1088/1757-899X/1259/1/012034/meta)  
+S7) [Deep transfer learning for bearing fault diagnosis: A systematic review since 2016](https://ieeexplore.ieee.org/abstract/document/10042467/)  
+ 
 ## Methodolgy Paper
 M1) [Damage Propagation Modeling for Aircraft Engine Prognostics](https://ntrs.nasa.gov/api/citations/20090029214/downloads/20090029214.pdf)  
 M2) [Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings](https://www.sciencedirect.com/science/article/abs/pii/S0263224120302797)   
