@@ -1,13 +1,11 @@
 # Paper-for-Bearing-data-benchmarking
 
 ## Dataset paper
-D1) CONDITION MONITORING OF BEARING DAMAGE IN ELECTROMECHANICAL DRIVE SYSTEMS BY USING MOTOR CURRENT SIGNALS OF ELECTRIC MOTORS: A BENCHMARK DATA SET FOR DATA-DRIVEN CLASSIFICATION
-
-D2) Vibration, Acoustic, Temperature, and Motor Current Dataset of Rotating Machine Under Varying Load Conditions for Fault Diagnosis
-
-D3) HUST bearing: a practical dataset for ball bearing fault diagnosis
-
+D1) [Condition Monitoring of Bearing Damage in Electromechanical Drive Systems by Using Motor Current Signals of Electric Motors: A Benchmark Data Set for Data-Driven Classification](https://www.semanticscholar.org/paper/Condition-Monitoring-of-Bearing-Damage-in-Drive-by-Lessmeier-Kimotho/79c07f2be8dd894deb572070f674e514d3dd1caa)  
+D2) [Vibration, Acoustic, Temperature, and Motor Current Dataset of Rotating Machine Under Varying Load Conditions for Fault Diagnosis](https://www.sciencedirect.com/science/article/pii/S2352340923001671)  
+D3) [HUST bearing: a practical dataset for ball bearing fault diagnosis](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-023-06400-4#:~:text=Data%20description&text=This%20dataset%20contains%2099%20raw,W%2C%20and%20400%20W).  
 D4) A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings
+
 ## Survery paper
 S1) [Deep learning algorithms for bearing fault diagnostics—A comprehensive review](https://ieeexplore.ieee.org/abstract/document/8988271/)  
 S2) [A survey on deep learning based bearing fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0925231218312657)  
