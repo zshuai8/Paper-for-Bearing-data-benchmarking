@@ -12,9 +12,18 @@ D4) A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rollin
 S1)
 
 ## Methodolgy Paper
-M1) Damage Propagation Modeling for Aircraft Engine Prognostics
-
-M2) Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings
+M1) [Damage Propagation Modeling for Aircraft Engine Prognostics].([https://ntrs.nasa.gov/api/citations/20090029214/downloads/20090029214.pdf])
+M2) [Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings].([https://www.sciencedirect.com/science/article/abs/pii/S0263224120302797])
+M3) [Bearing fault classification of induction motors using discrete wavelet transform and ensemble machine learning algorithms](https://www.mdpi.com/2076-3417/10/15/5251)
+M4) [A novel feature extraction method for bearing fault classification with one dimensional ternary patterns](https://www.sciencedirect.com/science/article/pii/S0019057819304860)
+M5) [A novel bearing fault classification method based on XGBoost: The fusion of deep learning-based features and empirical features](https://ieeexplore.ieee.org/abstract/document/9284573/)
+M6) [FaultNet: a deep convolutional neural network for bearing fault classification](https://ieeexplore.ieee.org/abstract/document/9345676/)
+M7) [Bearing fault classification using ensemble empirical mode decomposition and convolutional neural network](https://www.mdpi.com/2079-9292/10/11/1248)
+M8) [A new feature extraction approach based on one dimensional gray level co-occurrence matrices for bearing fault classification](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2020.1735530)
+M9) [Gear and bearing fault classification under different load and speed by using Poincaré plot features and SVM](https://link.springer.com/article/10.1007/s10845-020-01712-9)
+M10) [Gaussian Mixture Model Based Classification Revisited: Application to the Bearing Fault Classification](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00392480&AN=142807177)
+9. [A weight multinet architecture for bearing fault classification under complex speed conditions](https://ieeexplore.ieee.org/abstract/document/9205598/)
+10. [Convolutional neural networks based rolling bearing fault classification under variable operating conditions](https://ieeexplore.ieee.org/abstract/document/9548378/)
 
 
 ## BibTex
