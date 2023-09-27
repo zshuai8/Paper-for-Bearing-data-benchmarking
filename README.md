@@ -12,18 +12,18 @@ D4) A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rollin
 S1)
 
 ## Methodolgy Paper
-M1) [Damage Propagation Modeling for Aircraft Engine Prognostics].([https://ntrs.nasa.gov/api/citations/20090029214/downloads/20090029214.pdf])
-M2) [Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings].([https://www.sciencedirect.com/science/article/abs/pii/S0263224120302797])
-M3) [Bearing fault classification of induction motors using discrete wavelet transform and ensemble machine learning algorithms](https://www.mdpi.com/2076-3417/10/15/5251)
-M4) [A novel feature extraction method for bearing fault classification with one dimensional ternary patterns](https://www.sciencedirect.com/science/article/pii/S0019057819304860)
-M5) [A novel bearing fault classification method based on XGBoost: The fusion of deep learning-based features and empirical features](https://ieeexplore.ieee.org/abstract/document/9284573/)
-M6) [FaultNet: a deep convolutional neural network for bearing fault classification](https://ieeexplore.ieee.org/abstract/document/9345676/)
-M7) [Bearing fault classification using ensemble empirical mode decomposition and convolutional neural network](https://www.mdpi.com/2079-9292/10/11/1248)
-M8) [A new feature extraction approach based on one dimensional gray level co-occurrence matrices for bearing fault classification](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2020.1735530)
-M9) [Gear and bearing fault classification under different load and speed by using Poincaré plot features and SVM](https://link.springer.com/article/10.1007/s10845-020-01712-9)
-M10) [Gaussian Mixture Model Based Classification Revisited: Application to the Bearing Fault Classification](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00392480&AN=142807177)
-9. [A weight multinet architecture for bearing fault classification under complex speed conditions](https://ieeexplore.ieee.org/abstract/document/9205598/)
-10. [Convolutional neural networks based rolling bearing fault classification under variable operating conditions](https://ieeexplore.ieee.org/abstract/document/9548378/)
+M1) [Damage Propagation Modeling for Aircraft Engine Prognostics](https://ntrs.nasa.gov/api/citations/20090029214/downloads/20090029214.pdf)  
+M2) [Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings](https://www.sciencedirect.com/science/article/abs/pii/S0263224120302797)   
+M3) [Bearing fault classification of induction motors using discrete wavelet transform and ensemble machine learning algorithms](https://www.mdpi.com/2076-3417/10/15/5251)   
+M4) [A novel feature extraction method for bearing fault classification with one dimensional ternary patterns](https://www.sciencedirect.com/science/article/pii/S0019057819304860)  
+M5) [A novel bearing fault classification method based on XGBoost: The fusion of deep learning-based features and empirical features](https://ieeexplore.ieee.org/abstract/document/9284573/)  
+M6) [FaultNet: a deep convolutional neural network for bearing fault classification](https://ieeexplore.ieee.org/abstract/document/9345676/)  
+M7) [Bearing fault classification using ensemble empirical mode decomposition and convolutional neural network](https://www.mdpi.com/2079-9292/10/11/1248)  
+M8) [A new feature extraction approach based on one dimensional gray level co-occurrence matrices for bearing fault classification](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2020.1735530)  
+M9) [Gear and bearing fault classification under different load and speed by using Poincaré plot features and SVM](https://link.springer.com/article/10.1007/s10845-020-01712-9)  
+M10) [Gaussian Mixture Model Based Classification Revisited: Application to the Bearing Fault Classification](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00392480&AN=142807177)  
+M11) [A weight multinet architecture for bearing fault classification under complex speed conditions](https://ieeexplore.ieee.org/abstract/document/9205598/)  
+M12) [Convolutional neural networks based rolling bearing fault classification under variable operating conditions](https://ieeexplore.ieee.org/abstract/document/9548378/)   
 
 
 ## BibTex
@@ -34,7 +34,7 @@ D1)
   year={2016},
   url={https://api.semanticscholar.org/CorpusID:4692476}
 }
-D2) 
+D2)   
 @article{jung2023vibration,
   title={Vibration, acoustic, temperature, and motor current dataset of rotating machine under varying operating conditions for fault diagnosis},
   author={Jung, Wonho and Kim, Seong-Hu and Yun, Sung-Hyun and Bae, Jaewoong and Park, Yong-Hwa},
@@ -43,7 +43,7 @@ D2)
   pages={109049},
   year={2023},
   publisher={Elsevier}
-}
+}   
 D3)
 @article{Thuan_2023,
 	doi = {10.1186/s13104-023-06400-4},
@@ -57,7 +57,7 @@ D3)
 	author = {Nguyen Duc Thuan and Hoang Si Hong},
 	title = {{HUST} bearing: a practical dataset for ball bearing fault diagnosis},
 	journal = {{BMC} Research Notes}
-}
+}   
 D4)
 @ARTICLE{8576668,
   author={Wang, Biao and Lei, Yaguo and Li, Naipeng and Li, Ningbo},
@@ -67,7 +67,7 @@ D4)
   volume={69},
   number={1},
   pages={401-412},
-  doi={10.1109/TR.2018.2882682}}
+  doi={10.1109/TR.2018.2882682}}   
 M1)
 @inproceedings{saxena2008damage,
   title={Damage propagation modeling for aircraft engine run-to-failure simulation},
@@ -76,8 +76,7 @@ M1)
   pages={1--9},
   year={2008},
   organization={IEEE}
-}
-
+}   
 M2)
 @article{ZHENG2020107741,
 title = {Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings},
@@ -91,4 +90,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S0263224120302797},
 author = {Taisheng Zheng and Lei Song and Jianxing Wang and Wei Teng and Xiaoli Xu and Chao Ma},
 keywords = {Rolling bearings, Imbalanced fault diagnosis, D2CGANs, Data synthesis, Mode collapse},
 abstract = {Diagnosis of rolling bearings plays an important role in condition monitoring of industrial rotating machinery. In many actual applications, rolling bearings work in normal state at most time and faulty samples are difficult to be collected. Thus, it is easy to arise problem of imbalanced dataset which restricts accuracy and stability of fault diagnosis. Generative adversarial networks (GANs) have been proved to be effective to produce artificial data that are alike real data, and have been widely used in image fields. Data synthesis using deep generative model provide a promising methodology for imbalanced fault diagnosis of machinery. In this paper, we propose a novel framework named dual discriminator conditional generative adversarial networks (D2CGANs) to learn from sensor signals on multimodal fault samples and automatically synthesize realistic one-dimensional signals of each fault. The framework is designed to produce realistic multimodal samples with fault labels and dual-discriminator structure is benefit to enhance the quality and diversity of synthesized data without mode collapse. Then, synthesized data can be used for data augmentation to improve the accuracy of imbalanced fault diagnosis. In order to evaluate the performance of the generative model, we introduce a set of assessments to evaluate quality and diversity of synthesized data, including quantitative statistical metrics and qualitative visualization. Finally, experiments on rolling bearings datasets from Case Western Reserve University (CWRU) are implemented to verify the effectiveness of the proposed approach for imbalanced fault diagnosis. Results demonstrate our method outperforms other widely used synthesis techniques in terms of data synthesis quality and fault diagnosis accuracy, and timeliness analysis also denotes our method can meet requirement of online fault diagnosis.}
-}
+}   
